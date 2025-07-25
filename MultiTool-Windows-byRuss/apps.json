@@ -1,0 +1,170 @@
+﻿[
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "Steam",
+    "DownloadUrl": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "Epic Games Launcher",
+    "DownloadUrl": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
+    "SilentArgs": "/qn"
+  },
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "Modrinth App",
+    "DownloadUrl": "https://launcher.modrinth.com/Modrinth%20App.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "Discord",
+    "DownloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86",
+    "SilentArgs": "--silent"
+  },
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "Battle.net",
+    "DownloadUrl": "https://www.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP",
+    "SilentArgs": ""
+  },
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "Roblox Player",
+    "DownloadUrl": "https://setup.rbxcdn.com/RobloxPlayerLauncher.exe",
+    "SilentArgs": ""
+  },
+  {
+    "Category": "Juegos y Plataformas de Juego",
+    "Name": "CurseForge",
+    "DownloadUrl": "https://curseforge.overwolf.com/downloads/curseforge-latest-win64.exe",
+    "SilentArgs": "-s"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Radmin VPN",
+    "DownloadUrl": "https://www.radmin-vpn.com/download/Radmin_VPN_1.4.4642.1.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Sandboxie-Plus",
+    "DownloadUrl": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.13.4/Sandboxie-Plus-x64-v1.13.4.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "CPUID CPU-Z",
+    "DownloadUrl": "https://download.cpuid.com/cpu-z/cpu-z_2.09-en.exe",
+    "SilentArgs": "/VERYSILENT /SUPPRESSMSGBOXES"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Revo Uninstaller",
+    "DownloadUrl": "https://www.revouninstaller.com/download-freeware-version.php",
+    "SilentArgs": "/VERYSILENT /NORESTART"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Flow Launcher",
+    "DownloadUrl": "https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.17.1/Flow-Launcher-Setup.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Malwarebytes",
+    "DownloadUrl": "https://data-cdn.mbamupdates.com/web/mb5-setup-consumer/MBSetup.exe",
+    "SilentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Core Temp",
+    "DownloadUrl": "https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "AnyDesk",
+    "DownloadUrl": "https://download.anydesk.com/AnyDesk.exe",
+    "SilentArgs": "--install \"C:\\Program Files (x86)\\AnyDesk\" --silent --create-desktop-icon"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "AutoHotKey",
+    "DownloadUrl": "https://www.autohotkey.com/download/ahk-v2.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Utilidades del Sistema y Rendimiento",
+    "Name": "Everything",
+    "DownloadUrl": "https://www.voidtools.com/Everything-1.5.0.1371a.x64-Setup.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Multimedia y Transmisión",
+    "Name": "qBittorrent",
+    "DownloadUrl": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.6.5/qbittorrent_4.6.5_x64_setup.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Multimedia y Transmisión",
+    "Name": "VLC media player",
+    "DownloadUrl": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+    "SilentArgs": "/L=1034 /S"
+  },
+  {
+    "Category": "Multimedia y Transmisión",
+    "Name": "OBS Studio",
+    "DownloadUrl": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.2-Full-Installer-x64.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Multimedia y Transmisión",
+    "Name": "Wallpaper Engine",
+    "DownloadUrl": "https://store.steampowered.com/app/431960/Wallpaper_Engine/",
+    "SilentArgs": ""
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "Proton Pass",
+    "DownloadUrl": "https://proton.me/download/PassWindows",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "Git",
+    "DownloadUrl": "https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe",
+    "SilentArgs": "/VERYSILENT"
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "Visual Studio Code",
+    "DownloadUrl": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+    "SilentArgs": "/VERYSILENT /MERGETASKS=!runcode"
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "Notepad++",
+    "DownloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.8/npp.8.6.8.Installer.x64.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "Brave",
+    "DownloadUrl": "https://referrals.brave.com/latest/BraveBrowserSetup.exe",
+    "SilentArgs": "--silent"
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "SumatraPDF",
+    "DownloadUrl": "https://www.sumatrapdfreader.org/dl/SumatraPDF-3.5.2-64-install.exe",
+    "SilentArgs": "/S"
+  },
+  {
+    "Category": "Productividad y Desarrollo",
+    "Name": "GIMP",
+    "DownloadUrl": "https://download.gimp.org/gimp/v2.99/windows/gimp-2.99.18-setup.exe",
+    "SilentArgs": "/VERYSILENT"
+  }
+]
